@@ -1,4 +1,4 @@
-# web_development_task_1
+# Responsive Landing Page
 ## Overview
 This project is a "clean and responsive landing page" designed using "HTML and CSS". It features a structured layout including a "header, hero section, and footer" for a sleek and user-friendly experience.
 
